@@ -2,6 +2,7 @@
 layout: page
 title: research
 subtitle: 
+avatar: "/img/research_avatar.png"
 ---
 
 
@@ -114,7 +115,8 @@ IEEE Photovoltaic Specialists Conference (PVSC 40), June 2014 (talk).
 
 "Electromagnetic Inverse Design of Light Trapping Textures for Subwavelength Thick Solar Cells,"   
 V. Ganapati, O. D. Miller, E. Yablonovitch.  
-IEEE Photovoltaic Specialists Conference (PVSC 39), June 2013. **Best Student Presentation Finalist**
+IEEE Photovoltaic Specialists Conference (PVSC 39), June 2013.  
+**Best Student Presentation Finalist**
 
 "Inverse Electromagnetic Design of a Photonic Crystal for Light Trapping,"  
 V. Ganapati, O. D. Miller, and E. Yablonovitch.  
@@ -126,4 +128,5 @@ V. Ganapati, O. D. Miller, and E. Yablonovitch.
 
 "Infrared birefringence imaging of residual stress and bulk defects in multicrystalline silicon,"  
 V. Ganapati, S. Schoenfelder, S. Castellanos, S. Oener, T. Buonassisi.  
-European Materials Research Society Spring Meeting, Strasbourg, France, June 2010. **Best Poster Award**
+European Materials Research Society Spring Meeting, Strasbourg, France, June 2010.  
+**Best Poster Award**

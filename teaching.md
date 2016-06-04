@@ -2,6 +2,7 @@
 layout: page
 title: teaching
 subtitle: 
+avatar: "/img/teaching_avatar.png"
 ---
 
 ### University of California, Berkeley
@@ -28,7 +29,7 @@ I taught the Summer Immersion Program, an intensive 7-week computer science cour
 We were hosted by [Square](https://squareup.com/). Some of the amazing final projects completed by the girls include [Boba Buddies](http://bobabuddies.github.io) and [AmplifEye](http://theamplifeyers.github.io/). 
 
 [Technovation Challenge](http://www.technovationchallenge.org/) (Spring 2012)  
-I worked with a group of 100 high school girls and helped them create mobile apps in App Inventor, as well as business plans go along with their apps.
+I worked with a group of 100 high school girls and helped them create mobile apps in [App Inventor](http://appinventor.mit.edu/), as well as business plans go along with their apps.
 We were hosted by Twitter and the program culminated in the teams "pitching" their apps.
 
 
