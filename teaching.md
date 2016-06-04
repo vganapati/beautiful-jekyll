@@ -1,16 +1,37 @@
 ---
 layout: page
-title: about
+title: teaching
 subtitle: 
 ---
 
-Postdoctoral Associate 2015 - Present
-Verily (formerly Google[x]) Life Sciences 
+### University of California, Berkeley
 
-Ph.D in Electrical Engineering & Computer Science 2015
-Master of Science in Electrical Engineering & Computer Science 2012
-University of California, Berkeley
-Advisor: Eli Yablonovitch
-	    	  
-S.B. in Electrical Sciences & Engineering 2010
-Massachusetts Institute of Technology
+EE 20: Systems and Signals (Fall 2014)
+Graduate Student Instructor
+
+EE 134: Fundamentals of Photovoltaics (Spring 2013)
+Graduate Student Instructor
+
+
+### Massachusetts Institute of Technology
+
+6.131 Power Electronics Lab (Fall 2009)
+Lab Assistant
+
+6.01 Introduction to EECS, MIT (Spring 2008)
+Lab Assistant
+
+### Other
+
+[Girls Who Code]("girlswhocode.com/summer-immersion-programs/") (Summer 2015)
+I taught the Summer Immersion Program, an intensive 7-week computer science course for 20 rising high school junior and senior girls.
+We were hosted by Square. Some of the amazing final projects completed by the girls include [Boba Buddies]("bobabuddies.github.io") and [AmplifEye]("http://theamplifeyers.github.io/"). 
+
+[Technovation Challenge]("http://www.technovationchallenge.org/") (Spring 2012)
+I worked with a group of 100 high school girls and helped them create mobile apps in App Inventor, as well as business plans go along with their apps.
+We were hosted by Twitter and the program culminated in the teams "pitching" their apps.
+
+
+            
+           
+	
