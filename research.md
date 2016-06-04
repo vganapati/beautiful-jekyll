@@ -24,25 +24,25 @@ DOI: 10.1109/JPHOTOV.2014.2361013
 G. Scranton, S. Bhargava, V. Ganapati, E. Yablonovitch.  
 *Optics Express*, 22, 21 (2014).   
 DOI:10.1364/OE.22.025027  
-[pdf]("publications/scranton_EUV.pdf")
+[pdf](publications/scranton_EUV.pdf)
 
 "Light Trapping Textures Designed by Electromagnetic Optimization for Subwavelength Thick Solar Cells,"  
 V. Ganapati, O. D. Miller, E. Yablonovitch.  
 *IEEE Journal of Photovoltaics* 4, 1 (2013).  
 DOI: 10.1109/JPHOTOV.2013.2280340  
-[pdf]("publications/ieee_jpv_light_trapping.pdf")
+[pdf](publications/ieee_jpv_light_trapping.pdf)
 
 "Seeding of silicon wire growth by out-diffused metal precipitates,"  
 V. Ganapati, D.P. Fenning, M.I. Bertoni, C.E. Kendrick, A.E. Fecych, J.M. Redwing, and T. Buonassisi.  
 *Small* 7, 563-567 (2011).  
 DOI: 10.1002/smll.201002250  
-[pdf]("publications/Small.pdf")
+[pdf](publications/Small.pdf)
 
 "Infrared birefringence imaging of residual stress and bulk defects in multicrystalline silicon,"  
 V. Ganapati, S. Schoenfelder, S. Castellanos, S. Oener, R. Koepge, A. Sampson, M.A. Marcus, B. Lai, H. Morhenn, G. Hahn, J. Bagdahn, T. Buonassisi.  
 *Journal of Applied Physics* 108, 063528 (2010).  
 DOI: 10.1063/1.3468404  
-[pdf]("publications/JournalAppliedPhys.pdf")
+[pdf](publications/JournalAppliedPhys.pdf)
 
 
 ### Conference Papers
@@ -56,45 +56,45 @@ IEEE Photovoltaic Specialists Conference (PVSC 43), June 2016.
 "Adjoint Method for Phase Retrieval,"  
 V. Ganapati, L. Waller, E. Yablonovitch.  
 Computational Optical Sensing and Imaging (COSI), June 2014.  
-[pdf]("publications/COSI-2014.pdf")
+[pdf](publications/COSI-2014.pdf)
 
 "Shape Optimization of Nanophotonic Devices Using the Adjoint Method,"  
 C. Lalau-Keraly, S. Bhargava, V. Ganapati, E. Yablonovitch.  
 CLEO: Science and Innovations, June 2014.  
 DOI: 10.1364/CLEO_SI.2014.STu2M.6  
-[pdf]("publications/"CLEO-2014.pdf")
+[pdf](publications/CLEO-2014.pdf)
 
 "Inverse Design of Optical Antennas for Sub-Wavelength Energy Delivery,"   
 S. Bhargava, O. D. Miller, V. Ganapati, and E. Yablonovitch.  
 CLEO: Science and Innovations, June 2013.  
-[pdf]("publications/bhargava_cleo_2012.pdf")
+[pdf](publications/bhargava_cleo_2012.pdf)
 
 "Inverse electromagnetic design for subwavelength light trapping in solar cells,"   
 V. Ganapati, O. D. Miller, E. Yablonovitch.  
 IEEE Photonics Conference (IPC), 191-192, Sept. 2012.  
 DOI: 10.1109/IPCon.2012.6358555  
-[pdf]("publications/IPC_paper.pdf")
+[pdf](publications/IPC_paper.pdf)
 
 "Spontaneous symmetry-breaking in the optimization of subwavelength solar cell textures for light trapping,"  
 V. Ganapati, O. D. Miller, E. Yablonovitch.  
 IEEE Photovoltaic Specialists Conference (PVSC 38), June 2012.   
 **Best Student Presentation Finalist**  
-[pdf]("publications/ganapati_pvsc_2012.pdf")
+[pdf](publications/ganapati_pvsc_2012.pdf)
 
 "Inverse Design of a Nano-Scale Surface Texture for Light Trapping,"   
 O. D. Miller, V. Ganapati, E. Yablonovitch.  
 CLEO: Science and Innovations, May 2012.  
-[pdf]("publications/miller_cleo_2012.pdf")
+[pdf](publications/miller_cleo_2012.pdf)
 
 "Infrared birefringence imaging of residual stress and bulk defects in multicrystalline silicon,"   
 V. Ganapati, S. Schoenfelder, S. Castellanos, S. Oener, T. Buonassisi.  
 IEEE Photovoltaic Specialists Conference (PVSC 35), June 2010.  
-[pdf]("publications/Ganapati-IEEEPVSC-2010.pdf")
+[pdf](publications/Ganapati-IEEEPVSC-2010.pdf)
 
 "Quantitative stress measurements of bulk microdefects in multicrystalline silicon,"  
 S. Schoenfelder, A. Sampson, V. Ganapati, R. Koepge, S. Castellanos, S. Oener, T. Buonassisi.  
 24th European Photovoltaic Solar Energy Conference, Sept. 2009 pp. 977-980.  
-[pdf]("publications/Schoenfelder-EUPVSEC-2009.pdf")
+[pdf](publications/Schoenfelder-EUPVSEC-2009.pdf)
 
 
 ### Selected Conference Talks/Posters
