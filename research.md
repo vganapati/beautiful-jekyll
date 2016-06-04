@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-subtitle: 
+subtitle: Research
 avatar: "/img/research_avatar.png"
 ---
 
