@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: 
 ---
 
-This is my first post, how exciting!
+I'm a Postdoctoral Associate at Verily (formerly Google[x]) Life Sciences, working on the robotic surgery team. My research interests include optimization algorithms for renewable energy, optics, and computer vision applications.
