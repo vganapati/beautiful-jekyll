@@ -1,6 +1,6 @@
 ---
 layout: page
-title: teaching
+title: Teaching
 subtitle: 
 avatar: "/img/teaching_avatar.png"
 ---
