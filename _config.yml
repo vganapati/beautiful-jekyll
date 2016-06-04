@@ -24,8 +24,8 @@ description: Research, publications, and teaching.
 # List of links in the navigation bar
 navbar-links:
   Home: "index.html"
-  Research: "research"
-  Teaching: "teaching"
+  Research: "Research"
+  Teaching: "Teaching"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
