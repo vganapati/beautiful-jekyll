@@ -23,7 +23,6 @@ description: Research, publications, and teaching.
 
 # List of links in the navigation bar
 navbar-links:
-  About: "aboutme"
   Research: "research"
   Teaching: "teaching"
   Resources: "resources"
