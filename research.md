@@ -3,7 +3,7 @@ layout: page
 title: 
 subtitle:
 avatar: "/img/research_avatar.png"
-show-avatar: false
+show-avatar: true
 ---
 
 

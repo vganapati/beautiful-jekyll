@@ -3,7 +3,7 @@ layout: page
 title: 
 subtitle:
 avatar: "/img/teaching_avatar.png"
-show-avatar: false
+show-avatar: true
 ---
 
 ### University of California, Berkeley
