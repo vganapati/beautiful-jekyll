@@ -20,7 +20,7 @@ Graduate Student Instructor
 6.131 Power Electronics Lab (Fall 2009)  
 Lab Assistant
 
-6.01 Introduction to EECS, MIT (Spring 2008)  
+6.01 Introduction to EECS (Spring 2008)  
 Lab Assistant
 
 ### Other
@@ -31,7 +31,7 @@ We were hosted by [Square](https://squareup.com/). Some of the amazing final pro
 
 [Technovation Challenge](http://www.technovationchallenge.org/) (Spring 2012)  
 I worked with a group of 100 high school girls and helped them create mobile apps in [App Inventor](http://appinventor.mit.edu/), as well as business plans for app monetization.
-We were hosted by Twitter and the program culminated in the team "pitches" to an external audience.
+We were hosted by Twitter and the program culminated in team "pitches" to an external audience.
 
 
             
