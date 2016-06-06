@@ -42,7 +42,7 @@ avatar: "/img/avatar-icon.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Vidya Ganapati
-  email: vidyag at eecs dot berkeley dot edu
+  email: vidyag@eecs.berkeley.edu
   github: vganapati    # eg. daattali
   linkedin: in/vganapati  # eg. "pub/dean-attali/8/946/143"
  
