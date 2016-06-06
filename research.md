@@ -6,7 +6,6 @@ avatar: "/img/research_avatar.png"
 show-avatar: true
 ---
 
-
 ### Journal Publications
 
 
