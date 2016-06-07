@@ -11,7 +11,7 @@ show-avatar: true
 
 - **Qualcomm Innovation Fellowship Finalist** 2013, 2014
 
-- **Best Student Presentation Finalist, IEEE Photovoltaics Specialists Conference** 2012, 2013
+- **Best Student Presentation Finalist, IEEE Photovoltaic Specialists Conference** 2012, 2013
 
 - **Department of Energy Office of Science Graduate Fellowship** 2010 - 2013
 
