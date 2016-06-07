@@ -6,18 +6,12 @@ avatar: "/img/award.png"
 show-avatar: true
 ---
 
-| 2013-2014 | test |
-|----------:|-----------|
-|       2000 | test2      |
-|           |           |
-|           |           |
-|           |           |
 
-**UC Berkeley Chancellor's Fellowship** *2013 - 2015*
+- **UC Berkeley Chancellor's Fellowship** *2013 - 2015*
 
-**Qualcomm Innovation Fellowship Finalist: 2013, 2014**
+- **Qualcomm Innovation Fellowship Finalist** *2013, 2014*
 
-**Best Student Presentation Finalist, IEEE Photovoltaics Specialists Conference: 2012, 2013**
+- **Best Student Presentation Finalist, IEEE Photovoltaics Specialists Conference** *2012, 2013*
 
 **Department of Energy Office of Science Graduate Fellowship: 2010 - 2013**
 
