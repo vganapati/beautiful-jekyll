@@ -22,7 +22,7 @@ V. Ganapati, C.-S. Ho, E. Yablonovitch.
 DOI: 10.1109/JPHOTOV.2014.2361013  
 [pdf](publications/ganapati_jpv_2014.pdf)
 
-###### "Single spherical mirror optic for extreme ultraviolet lithography enabled by inverse lithography technology"  
+##### "Single spherical mirror optic for extreme ultraviolet lithography enabled by inverse lithography technology"  
 G. Scranton, S. Bhargava, V. Ganapati, E. Yablonovitch.  
 *Optics Express*, 22, 21 (2014).   
 DOI:10.1364/OE.22.025027  
