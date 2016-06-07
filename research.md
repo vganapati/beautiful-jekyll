@@ -9,7 +9,7 @@ show-avatar: true
 ### Journal Publications
 
 
-######The Voltage Boost Enabled by Luminescence Extraction in Solar Cells  
+#### The Voltage Boost Enabled by Luminescence Extraction in Solar Cells  
 V. Ganapati, M. A. Steiner, E. Yablonovitch.  
 *IEEE Journal of Photovoltaics*, 99, 1-9 (2016).   
 DOI: 10.1109/JPHOTOV.2016.2547580  
