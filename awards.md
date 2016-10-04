@@ -6,6 +6,7 @@ avatar: "/img/award.png"
 show-avatar: true
 ---
 
+- **CITRIS Athena Early Career Award(http://citris-uc.org/2016-athena-award-recipients/)** 2016
 
 - **UC Berkeley Chancellor's Fellowship** 2013 - 2015
 
