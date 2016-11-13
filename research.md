@@ -58,7 +58,8 @@ DOI: 10.1063/1.3468404
 
 **Enhancing the Efficiency of Thermophotovoltaics with Photon Recycling**  
 T.P. Xiao, G. Scranton, V. Ganapati, J. Holzrichter, P. F. Peterson, and E. Yablonovitch.  
-Conference on Lasers and Electro-Optics, June 2016.  
+Conference on Lasers and Electro-Optics (CLEO), June 2016.  
+DOI: 10.1364/CLEO_AT.2016.ATu1K.2  
 [pdf](publications/TPV-CLEO.pdf)
 
 **Highly Efficient Thermophotovoltaics Enabled by Photon Re-Use**  
@@ -73,13 +74,14 @@ Computational Optical Sensing and Imaging (COSI), June 2014.
 
 **Shape Optimization of Nanophotonic Devices Using the Adjoint Method**  
 C. Lalau-Keraly, S. Bhargava, V. Ganapati, E. Yablonovitch.  
-CLEO: Science and Innovations, June 2014.  
+Conference on Lasers and Electro-Optics (CLEO), June 2014.  
 DOI: 10.1364/CLEO_SI.2014.STu2M.6  
 [pdf](publications/CLEO-2014.pdf)
 
 **Inverse Design of Optical Antennas for Sub-Wavelength Energy Delivery**   
 S. Bhargava, O. D. Miller, V. Ganapati, and E. Yablonovitch.  
-CLEO: Science and Innovations, June 2013.  
+Conference on Lasers and Electro-Optics (CLEO), June 2013.  
+DOI: 10.1364/CLEO_SI.2013.CM2F.2  
 [pdf](publications/bhargava_cleo_2012.pdf)
 
 **Inverse electromagnetic design for subwavelength light trapping in solar cells**   
@@ -97,6 +99,7 @@ IEEE Photovoltaic Specialists Conference (PVSC 38), June 2012.
 **Inverse Design of a Nano-Scale Surface Texture for Light Trapping**   
 O. D. Miller, V. Ganapati, E. Yablonovitch.  
 CLEO: Science and Innovations, May 2012.  
+DOI: 10.1364/CLEO_SI.2012.CF2J.2  
 [pdf](publications/miller_cleo_2012.pdf)
 
 **Infrared birefringence imaging of residual stress and bulk defects in multicrystalline silicon**   
