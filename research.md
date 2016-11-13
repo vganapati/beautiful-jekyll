@@ -20,19 +20,19 @@ V. Ganapati, T. P. Xiao, E. Yablonovitch.
 **The Voltage Boost Enabled by Luminescence Extraction in Solar Cells**  
 V. Ganapati, M. A. Steiner, E. Yablonovitch.  
 *IEEE Journal of Photovoltaics*, 6, 801 - 809 (2016).   
-<sup>DOI: 10.1109/JPHOTOV.2016.2547580<sup>  
+<sup>DOI: 10.1109/JPHOTOV.2016.2547580<\sup>  
 [pdf](publications/VoltageBoost.pdf)
 
 **Air Gaps as Intermediate Selective Reflectors to Reach Theoretical Efficiency Limits of Multibandgap Solar Cells**  
 V. Ganapati, C.-S. Ho, E. Yablonovitch.  
 *IEEE Journal of Photovoltaics*, 5, 410-417 (2015).  
-<sup>DOI: 10.1109/JPHOTOV.2014.2361013<sup>  
+<sup>DOI: 10.1109/JPHOTOV.2014.2361013<\sup>  
 [pdf](publications/ganapati_jpv_2014.pdf)
 
 **Single spherical mirror optic for extreme ultraviolet lithography enabled by inverse lithography technology**  
 G. Scranton, S. Bhargava, V. Ganapati, E. Yablonovitch.  
 *Optics Express*, 22, 21 (2014).   
-<sup>DOI:10.1364/OE.22.025027<sup>  
+<sup>DOI:10.1364/OE.22.025027<\sup>  
 [pdf](publications/scranton_EUV.pdf)
 
 **Light Trapping Textures Designed by Electromagnetic Optimization for Subwavelength Thick Solar Cells**  
