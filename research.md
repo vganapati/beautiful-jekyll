@@ -6,6 +6,14 @@ avatar: "/img/research_avatar.png"
 show-avatar: true
 ---
 
+### Preprints
+
+
+**Ultra-Efficient Thermophotovoltaics Exploiting Spectral Filtering by the Photovoltaic Band-Edge**
+V. Ganapati, T. P. Xiao, E. Yablonovitch.
+**upcoming**
+
+
 ### Journal Publications
 
 
@@ -48,11 +56,15 @@ DOI: 10.1063/1.3468404
 
 ### Conference Papers
 
+**Enhancing the Efficiency of Thermophotovoltaics with Photon Recycling** 
+T.P. Xiao, G. Scranton, V. Ganapati, J. Holzrichter, P. F. Peterson, and E. Yablonovitch. 
+Conference on Lasers and Electro-Optics, June 2016.
+[pdf](publications/TPV-CLEO.pdf)
 
 **Highly Efficient Thermophotovoltaics Enabled by Photon Re-Use**  
 G. Scranton, T. P. Xiao, V. Ganapati, J. Holzrichter, P. F. Peterson, E. Yablonovitch.  
 IEEE Photovoltaic Specialists Conference (PVSC 43), June 2016.  
-*upcoming*
+[pdf](publications/TPV-PVSC.pdf)
 
 **Adjoint Method for Phase Retrieval**  
 V. Ganapati, L. Waller, E. Yablonovitch.  
