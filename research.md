@@ -26,31 +26,31 @@ V. Ganapati, M. A. Steiner, E. Yablonovitch.
 **Air Gaps as Intermediate Selective Reflectors to Reach Theoretical Efficiency Limits of Multibandgap Solar Cells**  
 V. Ganapati, C.-S. Ho, E. Yablonovitch.  
 *IEEE Journal of Photovoltaics*, 5, 410-417 (2015).  
-DOI: 10.1109/JPHOTOV.2014.2361013  
+<sup>DOI: 10.1109/JPHOTOV.2014.2361013<sup>  
 [pdf](publications/ganapati_jpv_2014.pdf)
 
 **Single spherical mirror optic for extreme ultraviolet lithography enabled by inverse lithography technology**  
 G. Scranton, S. Bhargava, V. Ganapati, E. Yablonovitch.  
 *Optics Express*, 22, 21 (2014).   
-DOI:10.1364/OE.22.025027  
+<sup>DOI:10.1364/OE.22.025027<sup>  
 [pdf](publications/scranton_EUV.pdf)
 
 **Light Trapping Textures Designed by Electromagnetic Optimization for Subwavelength Thick Solar Cells**  
 V. Ganapati, O. D. Miller, E. Yablonovitch.  
 *IEEE Journal of Photovoltaics* 4, 1 (2013).  
-DOI: 10.1109/JPHOTOV.2013.2280340  
+<sup>DOI: 10.1109/JPHOTOV.2013.2280340<sup>  
 [pdf](publications/ieee_jpv_light_trapping.pdf)
 
 **Seeding of silicon wire growth by out-diffused metal precipitates**  
 V. Ganapati, D.P. Fenning, M.I. Bertoni, C.E. Kendrick, A.E. Fecych, J.M. Redwing, and T. Buonassisi.  
 *Small* 7, 563-567 (2011).  
-DOI: 10.1002/smll.201002250  
+<sup>DOI: 10.1002/smll.201002250<sup>  
 [pdf](publications/Small.pdf)
 
 **Infrared birefringence imaging of residual stress and bulk defects in multicrystalline silicon**  
 V. Ganapati, S. Schoenfelder, S. Castellanos, S. Oener, R. Koepge, A. Sampson, M.A. Marcus, B. Lai, H. Morhenn, G. Hahn, J. Bagdahn, T. Buonassisi.  
 *Journal of Applied Physics* 108, 063528 (2010).  
-DOI: 10.1063/1.3468404  
+<sup>DOI: 10.1063/1.3468404<sup>  
 [pdf](publications/JournalAppliedPhys.pdf)
 
 
@@ -59,7 +59,7 @@ DOI: 10.1063/1.3468404
 **Enhancing the Efficiency of Thermophotovoltaics with Photon Recycling**  
 T.P. Xiao, G. Scranton, V. Ganapati, J. Holzrichter, P. F. Peterson, and E. Yablonovitch.  
 Conference on Lasers and Electro-Optics (CLEO), June 2016.  
-DOI: 10.1364/CLEO_AT.2016.ATu1K.2  
+<sup>DOI: 10.1364/CLEO_AT.2016.ATu1K.2<sup>  
 [pdf](publications/TPV-CLEO.pdf)
 
 **Highly Efficient Thermophotovoltaics Enabled by Photon Re-Use**  
@@ -75,19 +75,19 @@ Computational Optical Sensing and Imaging (COSI), June 2014.
 **Shape Optimization of Nanophotonic Devices Using the Adjoint Method**  
 C. Lalau-Keraly, S. Bhargava, V. Ganapati, E. Yablonovitch.  
 Conference on Lasers and Electro-Optics (CLEO), June 2014.  
-DOI: 10.1364/CLEO_SI.2014.STu2M.6  
+<sup>DOI: 10.1364/CLEO_SI.2014.STu2M.6<sup>  
 [pdf](publications/CLEO-2014.pdf)
 
 **Inverse Design of Optical Antennas for Sub-Wavelength Energy Delivery**   
 S. Bhargava, O. D. Miller, V. Ganapati, and E. Yablonovitch.  
 Conference on Lasers and Electro-Optics (CLEO), June 2013.  
-DOI: 10.1364/CLEO_SI.2013.CM2F.2  
+<sup>DOI: 10.1364/CLEO_SI.2013.CM2F.2<sup>  
 [pdf](publications/bhargava_cleo_2012.pdf)
 
 **Inverse electromagnetic design for subwavelength light trapping in solar cells**   
 V. Ganapati, O. D. Miller, E. Yablonovitch.  
 IEEE Photonics Conference (IPC), 191-192, Sept. 2012.  
-DOI: 10.1109/IPCon.2012.6358555  
+<sup>DOI: 10.1109/IPCon.2012.6358555<sup>  
 [pdf](publications/IPC_paper.pdf)
 
 **Spontaneous symmetry-breaking in the optimization of subwavelength solar cell textures for light trapping**  
@@ -99,7 +99,7 @@ IEEE Photovoltaic Specialists Conference (PVSC 38), June 2012.
 **Inverse Design of a Nano-Scale Surface Texture for Light Trapping**   
 O. D. Miller, V. Ganapati, E. Yablonovitch.  
 CLEO: Science and Innovations, May 2012.  
-DOI: 10.1364/CLEO_SI.2012.CF2J.2  
+<sup>DOI: 10.1364/CLEO_SI.2012.CF2J.2<sup>  
 [pdf](publications/miller_cleo_2012.pdf)
 
 **Infrared birefringence imaging of residual stress and bulk defects in multicrystalline silicon**   
