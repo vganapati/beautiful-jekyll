@@ -59,7 +59,7 @@ V. Ganapati, S. Schoenfelder, S. Castellanos, S. Oener, R. Koepge, A. Sampson, M
 
 
 **Enhancing the Efficiency of Thermophotovoltaics with Photon Recycling**  
-T.P. Xiao, G. Scranton, V. Ganapati, J. Holzrichter, P. F. Peterson, and E. Yablonovitch.  
+T. P. Xiao, G. Scranton, V. Ganapati, J. Holzrichter, P. F. Peterson, and E. Yablonovitch.  
 Conference on Lasers and Electro-Optics (CLEO), June 2016.  
 <small>DOI: 10.1364/CLEO_AT.2016.ATu1K.2</small>  
 [pdf](publications/TPV-CLEO.pdf)
