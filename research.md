@@ -9,8 +9,8 @@ show-avatar: true
 ### Preprints
 
 
-**Ultra-Efficient Thermophotovoltaics Exploiting Spectral Filtering by the Photovoltaic Band-Edge**
-V. Ganapati, T. P. Xiao, E. Yablonovitch.
+**Ultra-Efficient Thermophotovoltaics Exploiting Spectral Filtering by the Photovoltaic Band-Edge**  
+V. Ganapati, T. P. Xiao, E. Yablonovitch.  
 **upcoming**
 
 
@@ -25,7 +25,7 @@ DOI: 10.1109/JPHOTOV.2016.2547580
 
 **Air Gaps as Intermediate Selective Reflectors to Reach Theoretical Efficiency Limits of Multibandgap Solar Cells**  
 V. Ganapati, C.-S. Ho, E. Yablonovitch.  
-*IEEE Journal of Photovoltaics*, 5, 410-417 (2014).  
+*IEEE Journal of Photovoltaics*, 5, 410-417 (2015).  
 DOI: 10.1109/JPHOTOV.2014.2361013  
 [pdf](publications/ganapati_jpv_2014.pdf)
 
@@ -56,9 +56,9 @@ DOI: 10.1063/1.3468404
 
 ### Conference Papers
 
-**Enhancing the Efficiency of Thermophotovoltaics with Photon Recycling** 
-T.P. Xiao, G. Scranton, V. Ganapati, J. Holzrichter, P. F. Peterson, and E. Yablonovitch. 
-Conference on Lasers and Electro-Optics, June 2016.
+**Enhancing the Efficiency of Thermophotovoltaics with Photon Recycling**  
+T.P. Xiao, G. Scranton, V. Ganapati, J. Holzrichter, P. F. Peterson, and E. Yablonovitch.  
+Conference on Lasers and Electro-Optics, June 2016.  
 [pdf](publications/TPV-CLEO.pdf)
 
 **Highly Efficient Thermophotovoltaics Enabled by Photon Re-Use**  
