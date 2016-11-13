@@ -20,7 +20,7 @@ V. Ganapati, T. P. Xiao, E. Yablonovitch.
 **The Voltage Boost Enabled by Luminescence Extraction in Solar Cells**  
 V. Ganapati, M. A. Steiner, E. Yablonovitch.  
 *IEEE Journal of Photovoltaics*, 6, 801 - 809 (2016).   
-DOI: 10.1109/JPHOTOV.2016.2547580  
+<sup>DOI: 10.1109/JPHOTOV.2016.2547580<sup>  
 [pdf](publications/VoltageBoost.pdf)
 
 **Air Gaps as Intermediate Selective Reflectors to Reach Theoretical Efficiency Limits of Multibandgap Solar Cells**  
