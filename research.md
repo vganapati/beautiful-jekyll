@@ -12,7 +12,7 @@ show-avatar: true
 
 **Ultra-Efficient Thermophotovoltaics Exploiting Spectral Filtering by the Photovoltaic Band-Edge**  
 V. Ganapati, T. P. Xiao, E. Yablonovitch.  
-**upcoming**
+[arxiv](http://arxiv.org/abs/1611.03544)
 
 
 ### Journal Publications
