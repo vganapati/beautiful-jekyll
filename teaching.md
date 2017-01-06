@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Teaching 1
-subtitle: Teaching 2
+title: 
+subtitle:
 avatar: "/img/teaching_avatar.png"
 show-avatar: true
 ---
 
-### Teaching
+
 
 ### University of California, Berkeley
 
