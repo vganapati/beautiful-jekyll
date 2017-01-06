@@ -43,7 +43,7 @@ V. Ganapati, O. D. Miller, E. Yablonovitch.
 [pdf](publications/ieee_jpv_light_trapping.pdf)
 
 **Seeding of silicon wire growth by out-diffused metal precipitates**  
-V. Ganapati, D.P. Fenning, M.I. Bertoni, C.E. Kendrick, A.E. Fecych, J.M. Redwing, and T. Buonassisi.  
+V. Ganapati, D.P. Fenning, M.I. Bertoni, C.E. Kendrick, A.E. Fecych, J.M. Redwing, T. Buonassisi.  
 *Small* 7, 563-567 (2011).  
 <small>DOI: 10.1002/smll.201002250</small>  
 [pdf](publications/Small.pdf)
@@ -55,11 +55,20 @@ V. Ganapati, S. Schoenfelder, S. Castellanos, S. Oener, R. Koepge, A. Sampson, M
 [pdf](publications/JournalAppliedPhys.pdf)
 
 
+### Issued Patents
+
+
+**Parallel programmable array microscope**
+V. M. Acosta, V. Ganapati.
+United States Patent 9,535,242 (2017).
+[link](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=9,535,242.PN.)
+
+
 ### Conference Papers
 
 
 **Enhancing the Efficiency of Thermophotovoltaics with Photon Recycling**  
-T. P. Xiao, G. Scranton, V. Ganapati, J. Holzrichter, P. F. Peterson, and E. Yablonovitch.  
+T. P. Xiao, G. Scranton, V. Ganapati, J. Holzrichter, P. F. Peterson, E. Yablonovitch.  
 Conference on Lasers and Electro-Optics (CLEO), June 2016.  
 <small>DOI: 10.1364/CLEO_AT.2016.ATu1K.2</small>  
 [pdf](publications/TPV-CLEO.pdf)
@@ -81,7 +90,7 @@ Conference on Lasers and Electro-Optics (CLEO), June 2014.
 [pdf](publications/CLEO-2014.pdf)
 
 **Inverse Design of Optical Antennas for Sub-Wavelength Energy Delivery**   
-S. Bhargava, O. D. Miller, V. Ganapati, and E. Yablonovitch.  
+S. Bhargava, O. D. Miller, V. Ganapati, E. Yablonovitch.  
 Conference on Lasers and Electro-Optics (CLEO), June 2013.  
 <small>DOI: 10.1364/CLEO_SI.2013.CM2F.2</small>  
 [pdf](publications/bhargava_cleo_2012.pdf)
@@ -136,11 +145,11 @@ IEEE Photovoltaic Specialists Conference (PVSC 39), June 2013.
 ***Best Student Presentation Finalist***
 
 **Inverse Electromagnetic Design of a Photonic Crystal for Light Trapping**  
-V. Ganapati, O. D. Miller, and E. Yablonovitch.  
+V. Ganapati, O. D. Miller, E. Yablonovitch.  
 PECS-X: 10th International Symposium on Photonic and Electromagnetic Crystal, June 2012 (poster).
 
 **Inverse Electromagnetic Design for Light Trapping in Solar Cells**  
-V. Ganapati, O. D. Miller, and E. Yablonovitch.  
+V. Ganapati, O. D. Miller, E. Yablonovitch.  
 2011 Fall MRS Meeting, Nov. 2011 (talk).
 
 **Infrared birefringence imaging of residual stress and bulk defects in multicrystalline silicon**  
