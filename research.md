@@ -14,7 +14,7 @@ V. Ganapati, T. P. Xiao, E. Yablonovitch.
 [arXiv](http://arxiv.org/abs/1611.03544)
 
 
-### Journal Publications
+<h3> Journal Publications </h3> 
 
 
 **The Voltage Boost Enabled by Luminescence Extraction in Solar Cells**  
@@ -54,7 +54,7 @@ V. Ganapati, S. Schoenfelder, S. Castellanos, S. Oener, R. Koepge, A. Sampson, M
 [pdf](publications/JournalAppliedPhys.pdf)
 
 
-### Issued Patents
+<h3> Issued Patents </h3>
 
 
 **Parallel programmable array microscope**  
@@ -63,7 +63,7 @@ United States Patent 9,535,242 (2017).
 [link](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=9,535,242.PN.)
 
 
-### Conference Papers
+<h3> Conference Papers </h3>
 
 
 **Enhancing the Efficiency of Thermophotovoltaics with Photon Recycling**  
@@ -123,7 +123,7 @@ S. Schoenfelder, A. Sampson, V. Ganapati, R. Koepge, S. Castellanos, S. Oener, T
 [pdf](publications/Schoenfelder-EUPVSEC-2009.pdf)
 
 
-### Selected Conference Talks/Posters
+<h3> Selected Conference Talks/Posters </h3>
 
 
 **The Voltage Boost Enabled by Luminescence Extraction in Solar Cells**  
