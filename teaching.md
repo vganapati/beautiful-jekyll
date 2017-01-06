@@ -6,8 +6,7 @@ avatar: "/img/teaching_avatar.png"
 show-avatar: true
 ---
 
-
-### University of California, Berkeley
+<h3> University of California, Berkeley </h3>
 
 EE 20: Systems and Signals (Fall 2014)  
 Graduate Student Instructor
@@ -15,7 +14,7 @@ Graduate Student Instructor
 EE 134: Fundamentals of Photovoltaics (Spring 2013)  
 Graduate Student Instructor
 
-### Massachusetts Institute of Technology
+<h3> Massachusetts Institute of Technology </h3> 
 
 6.131 Power Electronics Lab (Fall 2009)  
 Lab Assistant
@@ -23,7 +22,7 @@ Lab Assistant
 6.01 Introduction to EECS (Spring 2008)  
 Lab Assistant
 
-### Other
+<h3> Other </h3>
 
 [Girls Who Code](http://girlswhocode.com/summer-immersion-programs/) (Summer 2015)  
 I taught the Summer Immersion Program, an intensive 7-week computer science course for 20 rising high school junior and senior girls.
