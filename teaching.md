@@ -6,8 +6,8 @@ avatar: "/img/teaching_avatar.png"
 show-avatar: true
 ---
 
-###
-### University of California, Berkeley. ###
+### 
+### University of California, Berkeley.
 
 EE 20: Systems and Signals (Fall 2014)  
 Graduate Student Instructor
