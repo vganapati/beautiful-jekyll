@@ -5,8 +5,6 @@ subtitle:
 avatar: "/img/research_avatar.png"
 show-avatar: true
 ---
-
-
 ### Preprints
 
 
