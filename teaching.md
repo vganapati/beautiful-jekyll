@@ -1,7 +1,7 @@
 ---
 layout: page
-title: b
-subtitle: a
+title: 
+subtitle:
 avatar: "/img/teaching_avatar.png"
 show-avatar: true
 ---
