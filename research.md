@@ -57,7 +57,7 @@ V. Ganapati, S. Schoenfelder, S. Castellanos, S. Oener, R. Koepge, A. Sampson, M
 ### Issued Patents
 
 
-**Parallel programmable array microscope**
+**Parallel programmable array microscope**  
 V. M. Acosta, V. Ganapati.  
 United States Patent 9,535,242 (2017).  
 [link](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=9,535,242.PN.)
