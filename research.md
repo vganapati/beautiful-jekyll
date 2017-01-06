@@ -5,10 +5,8 @@ subtitle:
 avatar: "/img/research_avatar.png"
 show-avatar: true
 ---
-### Research
 
-
-### Preprints
+<h3> Preprints </h3>
 
 
 **Ultra-Efficient Thermophotovoltaics Exploiting Spectral Filtering by the Photovoltaic Band-Edge**  
